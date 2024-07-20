@@ -1,2 +1,6 @@
 twstock
 lxml
+pandas
+numpy
+matplotlib
+streamlit
