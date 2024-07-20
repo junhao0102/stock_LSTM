@@ -14,12 +14,12 @@
 
 安裝依賴的Python庫
 ```
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 啟動應用
 ```
-    streamlit run app.py
+streamlit run app.py
 ```
 
 
